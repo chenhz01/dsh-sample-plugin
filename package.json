@@ -1,0 +1,14 @@
+{
+  "name": "dsh-sample-plugin",
+  "version": "1.0.0",
+  "description": "Verified sample plugins for DeepSeek Harness (hash_sum tool + tools/result hook)",
+  "license": "MIT",
+  "dependencies": {
+    "@deepseek-ai/cordis": "^4.0.4",
+    "@deepseek-ai/cordis-plugin-timer": "^1.1.6",
+    "@deepseek-ai/dsh-tools": "^0.0.1-rc.1",
+    "tsx": "^4.23.15"
+  },
+  "type": "module",
+  "private": false
+}
